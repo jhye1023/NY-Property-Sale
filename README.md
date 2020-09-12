@@ -7,8 +7,7 @@ The purpose of this project is to aggregate, describe and analyze phenomena foun
 ## Link to the visualizations
 
 Deploying to heroku.
-[New York City Property Sales]
-(https://nyc-property-sales.herokuapp.com/)
+[New York City Property Sales](https://nyc-property-sales.herokuapp.com/)
 
 ## Tools Used
 
