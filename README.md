@@ -33,7 +33,7 @@ Deploying to heroku.
   - The Pandas DataFrame containing the data of all the months was filtered to eliminate the outliers
   - Small CombinedData CSV files, the product of the aggregation, were exported to the data_output folder
 
-Use of Tableau to describe and analyze the phenomena from the data by creating visualizations and dashboards
+3. Use of Tableau to describe and analyze the phenomena from the data by creating visualizations and dashboards
 
 
 
