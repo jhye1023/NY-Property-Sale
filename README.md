@@ -12,7 +12,7 @@ Deploying to heroku.
 ## Tools Used
 
 1. Python (Data Aggregation)
-  - Jupyter Notebook and Pandas
+ #^- Jupyter Notebook and Pandas
 
 2. Tableau (Visualization and Analysis)
 
