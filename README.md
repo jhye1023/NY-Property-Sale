@@ -29,14 +29,22 @@ Deploying to heroku.
  * Uploaded the CombinedData and dropped some columns that had fewer data than other fields and dropped duplicate values and saved as FinalCombinedData in the 
   data folder
 
-2. Use of Tableau to describe and analyze the phenomena from the data by creating visualizations and dashboards
+2. Use of Tableau to describe and analyze the NYC residential property sales' phenomena and trends from the data by creating visualizations and dashboards 
 
-#### New York Market Dynamics & Seasonality Dashboard
+* Filtered data with dwellings, apartments, and condominiums to analyze for residential properties
+
+### Tableau Dashboards
+
 
 ![NYC](img/DynamicsSeason.png)
 
+* Using area chart and showing the mark for the highest point
+####
+![NYC](img/MedianSalesPrices.png)
 
+* Using line chart to show median sold price by property type
 
+![NYC](img/MedianSalesPrices.png)
 
 
 
