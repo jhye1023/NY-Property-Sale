@@ -31,9 +31,9 @@ Deploying to heroku.
 
 2. Use of Tableau to describe and analyze the phenomena from the data by creating visualizations and dashboards
 
-### New York Market Dynamics & Seasonality Dashboard
+#### New York Market Dynamics & Seasonality Dashboard
 
-![Dynamics & Season](img/Dynamics&Season.png.png)
+![Dynamics & Season](img/Dynamics&Season.png)
 
 
 
