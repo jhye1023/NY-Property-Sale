@@ -23,16 +23,13 @@ Deploying to heroku.
 1. Use Python to aggregate data from NYC Open Data page. Files from 2016 until the end of June 2020.
 
   - The CSV files in the data_original folder were uploaded to Pandas Pandas DataFrames
-  - The headers of the Pandas DataFrames were changed to be the same for all the CSV files
-  - The Pandas DataFrames with the standardized headers were exported to the data_modified folder
-  - The CSV files in the modified folder were uploaded to a single Pandas DataFrame
+  - The files had some different columns so dropped them and made the files had the same columns for all the CSV files and exported to the Combined folder in
+  the data folder.
+  - Combined the files and saved CombinedData to the data folder
+  - Uploaded the CombinedData and dropped some columns that had fewer data than other fields and dropped duplicate values and saved as FinalCombinedData in the 
+  data folder
 
-2. Elimination of outliers by using Python.
- 
-  - The Pandas DataFrame containing the data of all the months was filtered to eliminate the outliers
-  - Small CombinedData CSV files, the product of the aggregation, were exported to the data_output folder
-
-3. Use of Tableau to describe and analyze the phenomena from the data by creating visualizations and dashboards
+2. Use of Tableau to describe and analyze the phenomena from the data by creating visualizations and dashboards
 
 
 
