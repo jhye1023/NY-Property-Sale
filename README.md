@@ -12,7 +12,7 @@ Deploying to heroku.
 ## Tools Used
 
 1. Python (Data Aggregation)
->- Jupyter Notebook and Pandas
+* Jupyter Notebook and Pandas
 
 2. Tableau (Visualization and Analysis)
 
@@ -22,14 +22,20 @@ Deploying to heroku.
 
 1. Use Python to aggregate data from NYC Open Data page. Files from 2016 until the end of June 2020.
 
-  - The CSV files in the data_original folder were uploaded to Pandas Pandas DataFrames
-  - The files had some different columns so dropped them and made the files had the same columns for all the CSV files and exported to the Combined folder in
+ * The CSV files in the data_original folder were uploaded to Pandas Pandas DataFrames
+ * The files had some different columns so dropped them and made the files had the same columns for all the CSV files and exported to the Combined folder in
   the data folder.
-  - Combined the files and saved CombinedData to the data folder
-  - Uploaded the CombinedData and dropped some columns that had fewer data than other fields and dropped duplicate values and saved as FinalCombinedData in the 
+ * Combined the files and saved CombinedData to the data folder
+ * Uploaded the CombinedData and dropped some columns that had fewer data than other fields and dropped duplicate values and saved as FinalCombinedData in the 
   data folder
 
 2. Use of Tableau to describe and analyze the phenomena from the data by creating visualizations and dashboards
+
+### New York Market Dynamics & Seasonality Dashboard
+
+![Dynamics & Season](img/Dynamics&Season.png.png)
+
+
 
 
 
