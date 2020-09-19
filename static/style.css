@@ -26,9 +26,6 @@ p {
   font-size: larger;
 }
   
-
-
-
 h1 {
   display: block;
   margin-block-start: 0.67em;
@@ -36,3 +33,6 @@ h1 {
   margin-inline-start: 0px;
   marker-start: 0px;
 }
+
+
+
