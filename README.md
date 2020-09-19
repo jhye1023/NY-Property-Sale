@@ -38,8 +38,8 @@ Deploying to heroku.
 
 ![NYC](img/DynamicsSeason.png)
 
-* Using area chart and showing the mark for the highest point
-####
+#### * Using area chart and showing the mark for the highest point
+
 ![NYC](img/MedianSalesPrices.png)
 
 * Using line chart to show median sold price by property type
