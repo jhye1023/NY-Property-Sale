@@ -33,7 +33,7 @@ Deploying to heroku.
 
 #### New York Market Dynamics & Seasonality Dashboard
 
-![Dynamics & Season](img/Dynamics&Season.png)
+![Dynamics & Season](img/DynamicsSeason.png)
 
 
 
