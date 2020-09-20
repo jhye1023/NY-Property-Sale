@@ -32,19 +32,28 @@ Deploying to heroku.
 2. Use of Tableau to describe and analyze the NYC residential property sales' phenomena and trends from the data by creating visualizations and dashboards 
 
 * Filtered data with dwellings, apartments, and condominiums to analyze for residential properties
+* Created propery type group using buiding class number
+* Used set function to show only dwellings, apartments and condomiums
+* Used action for map chart to show median sold price trend by property type for each area
 
 ### Tableau Dashboards
 
-
+1) Area chart and the mark for the highest point
 ![NYC](img/DynamicsSeason.png)
 
-#### * Using area chart and showing the mark for the highest point
-
+2) Line chart to show median sold price by property type
 ![NYC](img/MedianSalesPrices.png)
 
-* Using line chart to show median sold price by property type
+3) Bar chart 
+![NYC](img/MarketBreakdown.png)
+![NYC](img/LuxuryProperty.png)
 
-![NYC](img/MedianSalesPrices.png)
+4) Pie chart
+![NYC](img/EraPie.png)
+
+5) Map and area chat with action
+![NYC](img/NYMap.png)
+
 
 
 
